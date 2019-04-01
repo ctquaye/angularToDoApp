@@ -1,2 +1,0 @@
-# angularToDoApp
-Created with CodeSandbox
