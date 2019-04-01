@@ -3,4 +3,12 @@
     "experimentalDecorators": true,
     "allowJs": true
   }
+  
+  "paths": {
+      "*": [
+        "./*",
+        "app/*",
+        "../node_modules/*"
+      ]
+    }
 }
